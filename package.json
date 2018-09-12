@@ -1,0 +1,17 @@
+{
+  "name": "dragonbot",
+  "version": "1.1.0",
+  "description": "Second rework of Dragon bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M1",
+  "license": "ISC",
+  "dependencies": {
+    "danbooru": "^3.0.7",
+    "discord.js": "^11.3.2",
+    "jshint": "^2.9.5",
+    "to-zalgo": "^1.0.1"
+  }
+}
